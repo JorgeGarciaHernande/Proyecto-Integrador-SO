@@ -1,4 +1,4 @@
-"""Implementacion de planificador FCFS - First Come, First Served"""
+"""Implementacion de planificadorFCFS - First Come, First Served"""
 
 from collections import deque
 from clases import ProcessState

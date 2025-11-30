@@ -1,4 +1,4 @@
-"""Gestor completo de procesos - CPU con FCFS, Memoria, Sincronizacion"""
+"""Gestor completo de procesos -CPU conFCFS, Memoria, Sincronizacion"""
 
 import configparser
 import logging

@@ -1,4 +1,4 @@
-"""Simulador Completo de Gestion de Procesos - CPU (FCFS)"""
+"""Simulador Completo deGestion de Procesos - CPU (FCFS)"""
 
 import sys
 import time
